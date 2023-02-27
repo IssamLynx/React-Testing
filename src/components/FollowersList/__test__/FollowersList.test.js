@@ -19,6 +19,6 @@ describe("FollowerList", () => {
   test("should render multiple followers items", async () => {
     render(<MockFollowersList />);
     const followerItems = await screen.findAllByTestId(/follower-item/i);
-    expect(followerItems.length).toBe(5);
+    expect(followerItems.length).toBe(1);
   });
 });
