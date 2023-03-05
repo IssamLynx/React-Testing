@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.51b71d1c.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.11c136da.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.11c136da.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.951467cc.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.951467cc.js.map",
+    "static/js/2.8bafe146.chunk.js": "/react-gh-pages/static/js/2.8bafe146.chunk.js",
+    "static/js/2.8bafe146.chunk.js.map": "/react-gh-pages/static/js/2.8bafe146.chunk.js.map",
+    "static/js/3.6e9a488d.chunk.js": "/react-gh-pages/static/js/3.6e9a488d.chunk.js",
+    "static/js/3.6e9a488d.chunk.js.map": "/react-gh-pages/static/js/3.6e9a488d.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.51b71d1c.chunk.css.map": "/react-gh-pages/static/css/main.51b71d1c.chunk.css.map",
+    "static/js/2.8bafe146.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.8bafe146.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg",
+    "static/media/Banner.css": "/react-gh-pages/static/media/mountain.0dfa1736.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.951467cc.js",
+    "static/js/2.8bafe146.chunk.js",
+    "static/css/main.51b71d1c.chunk.css",
+    "static/js/main.11c136da.chunk.js"
+  ]
+}
