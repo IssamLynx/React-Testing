@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React-Testing/static/css/main.17d9a6fc.chunk.css",
-    "main.js": "/React-Testing/static/js/main.11c136da.chunk.js",
-    "main.js.map": "/React-Testing/static/js/main.11c136da.chunk.js.map",
-    "runtime-main.js": "/React-Testing/static/js/runtime-main.3da04a49.js",
-    "runtime-main.js.map": "/React-Testing/static/js/runtime-main.3da04a49.js.map",
-    "static/js/2.8bafe146.chunk.js": "/React-Testing/static/js/2.8bafe146.chunk.js",
-    "static/js/2.8bafe146.chunk.js.map": "/React-Testing/static/js/2.8bafe146.chunk.js.map",
-    "static/js/3.6e9a488d.chunk.js": "/React-Testing/static/js/3.6e9a488d.chunk.js",
-    "static/js/3.6e9a488d.chunk.js.map": "/React-Testing/static/js/3.6e9a488d.chunk.js.map",
-    "index.html": "/React-Testing/index.html",
-    "static/css/main.17d9a6fc.chunk.css.map": "/React-Testing/static/css/main.17d9a6fc.chunk.css.map",
-    "static/js/2.8bafe146.chunk.js.LICENSE.txt": "/React-Testing/static/js/2.8bafe146.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React-Testing/static/media/logo.6ce24c58.svg",
-    "static/media/Banner.css": "/React-Testing/static/media/mountain.0dfa1736.jpg"
+    "main.css": "/static/css/main.b3d99532.chunk.css",
+    "main.js": "/static/js/main.11c136da.chunk.js",
+    "main.js.map": "/static/js/main.11c136da.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1580d7c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1580d7c0.js.map",
+    "static/js/2.8bafe146.chunk.js": "/static/js/2.8bafe146.chunk.js",
+    "static/js/2.8bafe146.chunk.js.map": "/static/js/2.8bafe146.chunk.js.map",
+    "static/js/3.6e9a488d.chunk.js": "/static/js/3.6e9a488d.chunk.js",
+    "static/js/3.6e9a488d.chunk.js.map": "/static/js/3.6e9a488d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b3d99532.chunk.css.map": "/static/css/main.b3d99532.chunk.css.map",
+    "static/js/2.8bafe146.chunk.js.LICENSE.txt": "/static/js/2.8bafe146.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/Banner.css": "/static/media/mountain.0dfa1736.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3da04a49.js",
+    "static/js/runtime-main.1580d7c0.js",
     "static/js/2.8bafe146.chunk.js",
-    "static/css/main.17d9a6fc.chunk.css",
+    "static/css/main.b3d99532.chunk.css",
     "static/js/main.11c136da.chunk.js"
   ]
 }
