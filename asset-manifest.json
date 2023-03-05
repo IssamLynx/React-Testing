@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Testing/static/css/main.9cd7764f.chunk.css",
+    "main.css": "/React-Testing/static/css/main.17d9a6fc.chunk.css",
     "main.js": "/React-Testing/static/js/main.11c136da.chunk.js",
     "main.js.map": "/React-Testing/static/js/main.11c136da.chunk.js.map",
     "runtime-main.js": "/React-Testing/static/js/runtime-main.3da04a49.js",
@@ -10,7 +10,7 @@
     "static/js/3.6e9a488d.chunk.js": "/React-Testing/static/js/3.6e9a488d.chunk.js",
     "static/js/3.6e9a488d.chunk.js.map": "/React-Testing/static/js/3.6e9a488d.chunk.js.map",
     "index.html": "/React-Testing/index.html",
-    "static/css/main.9cd7764f.chunk.css.map": "/React-Testing/static/css/main.9cd7764f.chunk.css.map",
+    "static/css/main.17d9a6fc.chunk.css.map": "/React-Testing/static/css/main.17d9a6fc.chunk.css.map",
     "static/js/2.8bafe146.chunk.js.LICENSE.txt": "/React-Testing/static/js/2.8bafe146.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/React-Testing/static/media/logo.6ce24c58.svg",
     "static/media/Banner.css": "/React-Testing/static/media/mountain.0dfa1736.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3da04a49.js",
     "static/js/2.8bafe146.chunk.js",
-    "static/css/main.9cd7764f.chunk.css",
+    "static/css/main.17d9a6fc.chunk.css",
     "static/js/main.11c136da.chunk.js"
   ]
 }
